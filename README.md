@@ -38,6 +38,6 @@ Easy to edit color variables at the beginning of the CSS:
 
 ---- 
 
-[__INSTALL TO TAMPERMONKEY__]()
+[__INSTALL TO TAMPERMONKEY__](https://github.com/exserta/HeavenFever/raw/refs/heads/main/Theme/HeavenFever.user.js)
 
 </div>
