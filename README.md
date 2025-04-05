@@ -15,11 +15,12 @@ A light blue KoGaMa Website theme creatd for a request of one of my friends. <br
   Uses [__xneko/oneko__](https://greasyfork.org/en/scripts/465955-oneko-webmate/code), other than that pretty much pure CSS.
   
 
+</div>
 
 ----- 
 
 
-Easy to edit color variables at the beginning of the CSS:
+<div align="center"> Easy to edit color variables at the beginning of the CSS: </div>
 
  ```css
 /* Global variables for easy editing */
@@ -37,7 +38,8 @@ Easy to edit color variables at the beginning of the CSS:
 
 
 ---- 
-
+<div align="center">
+  
 [__INSTALL TO TAMPERMONKEY__](https://github.com/exserta/HeavenFever/raw/refs/heads/main/Theme/HeavenFever.user.js)
 
 </div>
