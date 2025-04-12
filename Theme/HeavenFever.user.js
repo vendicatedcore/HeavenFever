@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         HeaverFever - A KoGaMa Theme
+// @name         HeavenFever - A KoGaMa Theme
 // @namespace    github.com/exserta
-// @version      0.3b
+// @version      0.5b
 // @description  A light blue theme for kogama website made for a request.
 // @author       Simon <3
 // @match        *://www.kogama.com/*
@@ -63,7 +63,9 @@
   /* useless skin double banner img */
   background-image: none !important;
 }
-
+._3BKw5 {
+  display: none !important;
+}
 .css-zslu1c {
   /* Profile and description panel props */
   background-color: var(--PanelGradient) !important;
@@ -192,6 +194,10 @@
 }
 
 /* Main nav-bar (top) */
+
+._3QJqR .ZyrQG {
+color: #0d54d9 !important;
+}
 
 .css-x84yyj {
   /* Navbar Coloring */
