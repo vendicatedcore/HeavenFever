@@ -48,7 +48,9 @@
   /* useless skin double banner img */
   background-image: none !important;
 }
-
+._3BKw5 {
+  display: none !important;
+}
 .css-zslu1c {
   /* Profile and description panel props */
   background-color: var(--PanelGradient) !important;
@@ -177,6 +179,10 @@
 }
 
 /* Main nav-bar (top) */
+
+._3QJqR .ZyrQG {
+color: #0d54d9 !important;
+}
 
 .css-x84yyj {
   /* Navbar Coloring */
